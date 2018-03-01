@@ -1,0 +1,2 @@
+# aprendiz_SistemasInternet
+Sou aprendiz Da Fatec Jales- Noturno, desejo aprender mais e mais desse mundo tecnologico, e computação, e aprender como funciona os codigos e o que ele gera pra pessoas alegria?, precisão? ser Exato? fazer Cálculos ? ser uma ferramenta de ajuda para as pessoas? depende o que você vá fazer e quer desenvolver para um mundo mais fácil e tecnológico . Estou aprendendo Html e Css e C e pretendo aprender Javascript.
